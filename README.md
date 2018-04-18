@@ -9,3 +9,4 @@ Copy files and open index.html
 * two points = new line
 * Press **ESC** to reset the start point of a line
 
+![alt text](https://github.com/Getriax/graph-fun/blob/master/redme/redme.png)
